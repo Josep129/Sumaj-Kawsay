@@ -136,6 +136,11 @@ body {
     text-align: center;
     padding: 1em;
 }
-.nosotros *{
-    padding: 1em;
+.nosotros2 {
+    display: flex;
+    justify-content: center
+}
+.Demas {
+    padding: 10px;
+    margin: 10px
 }
